@@ -8,6 +8,6 @@ Cyber Security Enthusiast.
 [![YouTube Badge](https://img.shields.io/badge/-Spartan%20Code-6495ED?style=flat-square&labelColor=6495ED&logo=youtube&logoColor=white&link=https://www.youtube.com/spartancode)](https://www.youtube.com/spartancode)
 
 Hi, I'm Lucas! Enthusiast of the hacking world and everything that contains a digital circuit.
-<img src="https://static.wikia.nocookie.net/reddeadredemption/images/8/82/Epic-fail-guy-dance.gif" align="right" height="100" width="100">
+<img src="http://www.clipartbest.com/cliparts/jcx/zz8/jcxzz8nKi.gif" align="right" height="160" width="180">
 
 I am currently studying the 6th (sixth) semester of the Computer Science course at the Federal Institute of Education, Science and Technology of Ceará - IFCE.
