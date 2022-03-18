@@ -2,10 +2,10 @@
 
 Cyber Security Enthusiast.
 
-[![Twitter Badge](https://img.shields.io/badge/-@lucapwn-6495ED?style=flat-square&labelColor=6495ED&logo=twitter&logoColor=white&link=https://twitter.com/lucapwn)](https://twitter.com/lucapwn)
-[![LinkedIn Badge](https://img.shields.io/badge/-Lucas%20Araújo-6495ED?style=flat-square&labelColor=6495ED&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luscafter)](https://www.linkedin.com/in/luscafter)
-[![Instagram Badge](https://img.shields.io/badge/-@lucapwn-6495ED?style=flat-square&labelColor=6495ED&logo=instagram&logoColor=white&link=https://www.instagram.com/lucapwn)](https://www.instagram.com/lucapwn)
-[![YouTube Badge](https://img.shields.io/badge/-Spartan%20Code-6495ED?style=flat-square&labelColor=6495ED&logo=youtube&logoColor=white&link=https://www.youtube.com/spartancodehacking)](https://www.youtube.com/spartancodehacking)
+[![Twitter Badge](https://img.shields.io/badge/-@lucapwn-333333?style=flat-square&labelColor=333333&logo=twitter&logoColor=white&link=https://twitter.com/lucapwn)](https://twitter.com/lucapwn)
+[![LinkedIn Badge](https://img.shields.io/badge/-Lucas%20Araújo-333333?style=flat-square&labelColor=333333&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luscafter)](https://www.linkedin.com/in/luscafter)
+[![Instagram Badge](https://img.shields.io/badge/-@lucapwn-333333?style=flat-square&labelColor=333333&logo=instagram&logoColor=white&link=https://www.instagram.com/lucapwn)](https://www.instagram.com/lucapwn)
+[![YouTube Badge](https://img.shields.io/badge/-Spartan%20Code-333333?style=flat-square&labelColor=333333&logo=youtube&logoColor=white&link=https://www.youtube.com/spartancodehacking)](https://www.youtube.com/spartancodehacking)
 
 Hi, I'm Lucas! Enthusiast of the hacking world and everything that contains a digital circuit.
 <img src="http://www.clipartbest.com/cliparts/jcx/zz8/jcxzz8nKi.gif" align="right" height="160" width="180">
