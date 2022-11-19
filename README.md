@@ -10,4 +10,4 @@ Cyber Security Enthusiast.
 Hi, I'm Lucas! Enthusiast of the hacking world and everything that contains a digital circuit.
 <img src="http://www.clipartbest.com/cliparts/jcx/zz8/jcxzz8nKi.gif" align="right" height="160" width="180">
 
-I am currently studying the 8th (eighth) semester of the Computer Science course at the Federal Institute of Education, Science and Technology of Ceará - IFCE.
+I am currently studying the 9th (ninth) semester of the Computer Science course at the Federal Institute of Education, Science and Technology of Ceará - IFCE.
