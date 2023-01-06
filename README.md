@@ -4,7 +4,7 @@ Developer | Computer Science | Cyber Security Enthusiast
 
 ## About me <img width="26" src="https://camo.githubusercontent.com/ea09d843e584c4c4365baf0f1b8e691a36e7355536170ea93d45ca58308e507a/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d6461726b2e676966">
 
-I am a full stack developer.
+Hey there! I am a full stack developer.
 
 Currently, I am a student of Computer Science at the Federal Institute of Education, Science and Technology of Ceará - IFCE.
 
@@ -18,9 +18,6 @@ Also, I love embedded systems and IoT, and I already had the opportunity to deve
 
 <a target="_blank" href="https://www.cprogramming.com/">
   <img align="left" alt="C" width="24px" src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFDK6gMrxZGRZ9cm-khLIW50dl8xnp34MGC_IpJkCE9fSxDIRWgbL_FtAt9fxZpe04MhkPP3PNl5-RBuuEbNQGMqB_J6i1ay=w1220-h890" />
-</a>
-<a target="_blank" href="https://cplusplus.com/">
-  <img align="left" alt="C++" width="27px" src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFDK6gOuslYy-bbDhREmknOb1nNBNF-JSSR4Okq33GXfwOcEVxit6QSnjAWc8CeR8QG8b8aFJYsYc5aBt800oJM3OBao6lYH=w1220-h890" />
 </a>
 <a target="_blank" href="https://www.w3.org/html/">
   <img align="left" alt="HTML" width="26px" src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFDK6gOtOrpv-HBYR7c6W-qRGaH9tdEiljk6OFb-Irwxcg1vKaJInIO0SCvuj2zX5jAGaQNkD8BhMUO6dNx7FGMkFkR5eMux=w1220-h890" />
@@ -42,9 +39,6 @@ Also, I love embedded systems and IoT, and I already had the opportunity to deve
 </a>
 <a target="_blank" href="https://git-scm.com/">
   <img align="left" alt="Git" width="28px" src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFDK6gPC96uKvupAkvTuqRbTrcD8sRIVqTnrZz_cJyd0GZgBle3jcxpoiopXmrUJ1cokZ4KfX6_mDoT29tUf1RRRhFLCl5TDEQ=w1220-h947" />
-</a>
-<a target="_blank" href="https://github.com/">
-  <img align="left" alt="GitHub" width="28px" src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFDK6gOED3-24vWjyQhvvbvp7q6J31iYxovi1o8_F3a48bMl54IALpg2ctwlSodFXij8r7h9AJmXV5R_L-DIDT4kZjcoE-wE=w1220-h947" />
 </a>
 <a target="_blank" href="https://www.java.com/">
   <img align="left" alt="Java" width="28px" src="https://lh3.googleusercontent.com/u/1/drive-viewer/AFDK6gMgs3a3PYQ4RdXsXsWjZSmKeBKJiMN2ghBqZZ1bUZLZG687OpOub_mMt-rBPEapPmiWAXEVq37zd9Anj6N9nvHVRHiXFw=w1220-h947" />
