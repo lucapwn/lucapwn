@@ -51,15 +51,3 @@ Also, I love embedded systems and IoT, and I already had the opportunity to deve
 [<img alt="Visual Studio Code" width="28px" src="https://user-images.githubusercontent.com/58787069/211090399-9fb902b0-7bac-4ba4-a3cf-c150105a46bc.png" />](https://code.visualstudio.com/)
 &nbsp; &nbsp;
 [<img alt="GNU/Linux" width="26px" src="https://user-images.githubusercontent.com/58787069/211090211-84032310-85ea-4c6a-b637-5e530eff930b.png" />](https://www.linux.org/)
-
-## Contact me
-
-Any questions? Contact me! :)
-
-[<img alt="Instagram" width="24px" src="https://user-images.githubusercontent.com/58787069/211095833-7c6c477f-c5c8-49fa-aacd-c4f0a4190c4f.png" />](https://www.instagram.com/lucapwn)
-&nbsp; &nbsp;
-[<img alt="Discord" width="26px" src="https://user-images.githubusercontent.com/58787069/211095546-07e472c0-53c4-4ab7-a5f5-584f16a88a1e.png" />](https://discordapp.com/users/1055872079918006364)
-&nbsp; &nbsp;
-[<img alt="Twitter" width="24px" src="https://user-images.githubusercontent.com/58787069/211095310-56c8ffef-c8b9-4e59-818a-95a5c68a73d9.png" />](https://twitter.com/lucapwn)
-&nbsp; &nbsp;
-[<img alt="LinkedIn" width="24px" src="https://user-images.githubusercontent.com/58787069/211095082-d8c77211-e794-4704-b762-eb79f41e2cb2.png" />](https://www.linkedin.com/in/lucapwn)
