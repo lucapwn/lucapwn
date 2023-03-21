@@ -1,6 +1,6 @@
 # Lucas Araújo 
 
-Developer | Computer Science | Cyber Security Enthusiast
+Software Developer | Computer Science | Cyber Security Enthusiast
 
 ## About me <img width="26" src="https://user-images.githubusercontent.com/58787069/211089984-accad9c7-1b06-404d-a544-465befea5f5e.gif">
 
