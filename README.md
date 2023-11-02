@@ -2,13 +2,13 @@
 
 Software Developer | Computer Science | Cyber Security Enthusiast
 
-## About me <img width="26" src="https://user-images.githubusercontent.com/58787069/211089984-accad9c7-1b06-404d-a544-465befea5f5e.gif">
+## About me
 
-Hey there! I am a full stack developer.
+Hey there! What's up? :)
 
-Currently, I am a student of Computer Science at the Federal Institute of Education, Science and Technology of Ceará - IFCE.
+Currently, a full-stack developer with a degree in Computer Science from the Federal Institute of Education, Science and Technology of Ceará - IFCE.
 
-> Optimistic, curious, and dedicated: these are the words that define me. I am passionate about software development, ethical hacking and everything that has electronic circuits. Also, I'm crazy about games and challenges! :)
+> Optimistic, curious and dedicated: these are the words that define me. I love developing and designing software and anything with electronic circuits. In my spare time, I'm a student of cybersecurity, IoT and low-level programming. I'm also crazy about games and challenges!
 
 ## Stacks
 
