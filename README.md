@@ -2,7 +2,7 @@
 
 Desenvolvedor Full Stack apaixonado por inovação! 💡
 
-Graduado em Ciência da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), com experiência sólida em desenvolvimento de software e reconhecimento no Programa Centelha 2 - CE.
+Graduado em Ciência da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), com experiência sólida em desenvolvimento de software e reconhecimento no Programa Centelha 2 e Startup NE.
 
 Fascinado por cybersecurity, IoT e programação em baixo nível. Sempre em busca de desafios e aprendizado contínuo para impulsionar meu crescimento profissional.
 
