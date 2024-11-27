@@ -1,13 +1,9 @@
 # Lucas Araújo 
 
-Desenvolvedor Full Stack apaixonado por inovação! 💡
+Desenvolvedor _Full Stack_ apaixonado por inovação! 💡
 
-Graduado em Ciência da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), com experiência sólida em desenvolvimento de software e reconhecimento no Programa Centelha 2 e Startup NE.
+Graduado em Ciência da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), pós-graduando em Docência para a Educação Profissional e Tecnológica (IFCE), com experiência sólida em Desenvolvimento de Software e reconhecimento no Programa Centelha 2 e Startup NE.
 
-Fascinado por cybersecurity, IoT e programação em baixo nível. Sempre em busca de desafios e aprendizado contínuo para impulsionar meu crescimento profissional.
-
-Meu objetivo de carreira é continuar aprimorando minhas habilidades e conhecimentos em uma empresa de inovação, onde eu possa contribuir para o sucesso da organização e, ao mesmo tempo, crescer profissionalmente.
-
-Acredito que um ambiente de trabalho dinâmico será o cenário ideal para desenvolver minhas competências e alcançar meus objetivos de longo prazo.
+Fascinado por _Cybersecurity_, IoT e Sistemas Embarcados. Sempre em busca de desafios e aprendizado contínuo para impulsionar meu crescimento profissional.
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,php,java,js,html,css,django,flask,flutter,bootstrap,arduino,docker,aws,mysql,firebase,postgres,bash,powershell,postman,git,github,stackoverflow,vscode,windows,linux&perline=13)](https://skillicons.dev)
