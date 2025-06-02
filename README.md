@@ -8,4 +8,4 @@ Atua como Desenvolvedor Full Stack e Pesquisador/Bolsista do CNPq. Possui 4 anos
 
 Nas horas vagas, estudante de Segurança da Informação, IoT e Sistemas Embarcados. Sempre em busca de desafios e aprendizado contínuo para impulsionar meu crescimento profissional.
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,php,js,html,css,django,flask,bootstrap,mysql,postgres,aws,docker&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,php,js,html,css,django,bootstrap,mysql,postgres,aws,docker&perline=12)](https://skillicons.dev)
