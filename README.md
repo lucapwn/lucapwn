@@ -8,4 +8,4 @@ Reconhecido em programas nacionais de inovação, tecnologia e empreendedorismo,
 
 Movido por desafios e pelo aprendizado contínuo, para impactar pessoas positivamente por meio da tecnologia.
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,next,nest,postgres,aws,docker&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,next,nest,prisma,aws,docker&perline=12)](https://skillicons.dev)
