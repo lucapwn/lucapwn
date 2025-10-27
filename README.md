@@ -1,6 +1,6 @@
 # Lucas Araújo 
 
-Engenheiro de Software com 4 anos de experiência profissional, especializado no desenvolvimento de Landing Pages, SaaS e aplicações IoT.
+Engenheiro de Software com mais de 4 anos de experiência, especializado em desenvolvimento de SaaS escaláveis e aplicações IoT inteligentes.
 
 Bacharel em Ciência da Computação pelo Instituto Federal do Ceará (IFCE) e pós-graduando em Engenharia de Software pela UniAmérica.
 
