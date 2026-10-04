@@ -1,10 +1,10 @@
 # Lucas Araújo 
 
-Engenheiro de Software com mais de 4 anos de experiência, especializado em desenvolvimento de SaaS escaláveis e aplicações IoT inteligentes.
+Engenheiro de Software com mais de 5 anos de experiência, especializado em desenvolvimento de SaaS e aplicações IoT.
 
-Bacharel em Ciência da Computação pelo Instituto Federal do Ceará (IFCE) e pós-graduando em Engenharia de Software pela UniAmérica.
+Bacharel em Ciência da Computação pelo Instituto Federal do Ceará (IFCE), especialista em Engenharia de Software e pós-graduando em MBA em Segurança da Informação pela UniAmérica.
 
-Reconhecido em programas nacionais de inovação, tecnologia e empreendedorismo, como Centelha (2022), Startup NE (2024) e EmbarcaTech (2025).
+Reconhecido em programas nacionais de inovação, tecnologia e empreendedorismo, como Programa Centelha, Startup NE e EmbarcaTech.
 
 Movido por desafios e pelo aprendizado contínuo, para impactar pessoas positivamente por meio da tecnologia.
 
